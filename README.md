@@ -1,6 +1,7 @@
 
 ## Test
 test
+$\color{red}{红色字体 test}$
 >ttt
 ```python
 print(test)

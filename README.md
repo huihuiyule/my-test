@@ -1,20 +1,33 @@
 
 ## Test
+
 test
+
+`$\color{red}{红色字体 test}$`
 
 $\color{red}{红色字体 test}$
 
 $\color{red}{ test}$
 
 >ttt
+
 ```python
 print(test)
 ```
 
 * 445456
-* 546512
+     + 546512
+       + 445456
+         + 546512
 
-1. tet
+* 445456
+- 546512
+
+1. test
+   + 1.1 test
+     1.2 test
+         - 1.2.1 test
+             -  1.2.1 test
 2. test
 3. test
 
